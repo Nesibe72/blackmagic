@@ -1,0 +1,14 @@
+{
+  "name": "express-vanilla-app",
+  "version": "1.0.0",
+  "description": "A simple Express.js application with a vanilla JavaScript frontend.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
